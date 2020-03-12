@@ -4,7 +4,7 @@
 
 <!-- Content -->
       <article>
-        <header class="section background-primary background-transparent text-center" data-image-src="img/parallax-06.jpg">
+        <header class="section background-dark background-transparent text-center" data-image-src="img/bsp/bsp257556904.jpg">
             <h1 class="text-white margin-bottom-0 text-size-50 text-thin text-line-height-1">Contact US</h1>
         </header>
         <div class="section background-white"> 
@@ -14,34 +14,31 @@
               <!-- Company Information -->
               <div class="s-12 m-12 l-6">
                 <h2 class="text-uppercase text-strong">Company Information</h2>
-                <hr class="break break-small background-primary">
+                <hr class="break break-small background-dark">
                 <div class="float-left">
-                  <i class="icon-placepin background-primary icon-circle-small text-size-20"></i>
+                  <i class="icon-placepin background-dark icon-circle-small text-size-20"></i>
                 </div>
                 <div class="margin-left-80 margin-bottom">
                   <h4 class="text-strong margin-bottom-0">Company Address</h4>
-                  <p>Responsive Street 7<br>
-                     London<br>
-                     UK, Europe
+                  <p>Mexico City<br>
+                     Mexico<br>
                   </p>               
                 </div>
                 <div class="float-left">
-                  <i class="icon-paperplane_ico background-primary icon-circle-small text-size-20"></i>
+                  <i class="icon-paperplane_ico background-dark icon-circle-small text-size-20"></i>
                 </div>
                 <div class="margin-left-80 margin-bottom">
                   <h4 class="text-strong margin-bottom-0">E-mail</h4>
-                  <p>contact@sampledomain.com<br>
-                     office@sampledomain.com
+                  <p>contact@roosteravocados.com<br>
+                     order@roosteravocados.com
                   </p>              
                 </div>
                 <div class="float-left">
-                  <i class="icon-smartphone background-primary icon-circle-small text-size-20"></i>
+                  <i class="icon-smartphone background-dark icon-circle-small text-size-20"></i>
                 </div>
                 <div class="margin-left-80">
                   <h4 class="text-strong margin-bottom-0">Phone Numbers</h4>
-                  <p>0800 4521 800 50<br>
-                     0450 5896 625 16<br>
-                     0798 6546 465 15
+                  <p>+52 1 55 4085 0396<br>
                   </p>             
                 </div>
               </div>
@@ -74,9 +71,9 @@
                     <textarea name="message" class="required message" placeholder="Your message" rows="3"></textarea>
                     <p class="message-error form-error">Please enter your message.</p>
                   </div>
-                  <div class="s-12">
+                  <!-- <div class="s-12">
                     <input type="file" name="file[]" />                    
-                  </div>
+                  </div> -->
                   <!-- full-name-field is hidden antirobot field -->
                   <input name="full-name-field" type="text" id="full-name-field" class="full-name-field" />
                   <div class="s-12"><a class="captcha-button text-white background-dark margin-bottom"><span class="not-a-robot-icon"><i class="icon-check text-green"></i></span> <span class="not-a-robot-text">I'm not a robot</span></a></div> 

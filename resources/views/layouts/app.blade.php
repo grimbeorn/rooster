@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Prospera - New Amazing HTML5 Template</title>
+    <title>Rooster | Mexican Avocados</title>
+    <link rel="shortcut icon" type="image/png" href="img/bsp/bspMascara_001.svg">
     <link rel="stylesheet" href="css/components.css">  
     <link rel="stylesheet" href="css/icons.css">  
     <link rel="stylesheet" href="css/responsee.css">
@@ -18,40 +19,40 @@
     <script type="text/javascript" src="js/validation.js"></script> 
   </head>
   
-  <body class="size-1140 primary-color-aqua">
+  <body class="size-1140 primary-color-pink">
   
     <!-- HEADER -->
-    <header role="banner">    
-      <!-- Top Bar -->
+    <header role="banner"> 
+    <!-- Top Bar -->
       <div class="top-bar hide-s hide-m background-white">
         <div class="line">
           <div class="s-12 m-6 l-6">
             <div class="top-bar-contact">
-              <p class="text-size-12">Contact Us: 0800 200 200 | <a class="text-orange-hover" href="mailto:contact@sampledomain.com">contact@sampledomain.com</a></p>
+              <p class="text-size-12">Request a quote: +52 55 4085 0396 | <a class="text-orange-hover" href="mailto:contact@sampledomain.com">requestaquote@roosteravocados.com</a></p>
             </div>
           </div>
           <div class="s-12 m-6 l-6">
             <div class="right">
-              <ul class="top-bar-social right">
+              <!-- <ul class="top-bar-social right">
                 <li><a href="/"><i class="icon-facebook_circle text-orange-hover"></i></a></li>
                 <li><a href="/"><i class="icon-twitter_circle text-orange-hover"></i></a> </li>
                 <li><a href="/"><i class="icon-google_plus_circle text-orange-hover"></i></a></li>
                 <li><a href="/"><i class="icon-instagram_circle text-orange-hover"></i></a></li>
-              </ul>
+              </ul> -->
             </div>
           </div>
         </div>
-      </div>
-      
-      <!-- Top Navigation -->
-      <nav class="background-white background-primary-hightlight sticky">
+      </div>   
+      <nav class="background-white background-primary-hightlight full-width sticky">
         <div class="line">
-          <div class="s-12 l-2">
-            <a href="/" class="logo"><img src="img/logo.png" alt=""></a>
+          <div class="s-6 l-2">
+            <a href="/" class="logo">
+              <!-- <img src="img/logo.png" alt=""> -->
+              <img style="height:95px;width:auto;" src="img/bsp/bspMascara_006.png" alt="">
+            </a>
           </div>
-          <div class="top-nav s-12 l-10">
-            
-            <ul class="right chevron">
+          <div class="top-nav">
+            <ul class="right chevron" style="margin-top:3%">
               <li><a href="/rooster">Rooster</a></li>
               <li><a href="/process">Process</a></li>
               <li><a href="/products">Products</a></li>
@@ -70,140 +71,78 @@
     <!-- FOOTER -->
     <footer>
       <!-- Social -->
-      <div class="background-green padding text-center">
+      <!-- <div class="background-pink padding text-center">
         <a href="/"><i class="icon-facebook_circle icon2x text-white"></i></a> 
         <a href="/"><i class="icon-twitter_circle icon2x text-white"></i></a>
         <a href="/"><i class="icon-google_plus_circle icon2x text-white"></i></a>
-        <a href="/"><i class="icon-instagram_circle icon2x text-white"></i></a>                                                                        
-      </div>
+        <a href="/"><i class="icon-instagram_circle icon2x text-white"></i></a>
+      </div> -->
       
-      <!-- Main Footer -->
-      <section class="section background-dark">
-        <div class="line">
-          <div class="margin">
-            <!-- Collumn 1 -->
-            <div class="s-12 m-12 l-4 margin-m-bottom-30">
-              <h4 class="text-uppercase text-strong">Our Philosophy</h4>
-              <p class="text-size-20"><em>"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt."</em><p>
-                            
-              <div class="line">
-                <h4 class="text-uppercase text-strong margin-top-30">About Our Company</h4>
-                <div class="margin">
-                  <div class="s-12 m-12 l-4 margin-m-bottom">
-                    <a class="image-hover-zoom" href="/"><img src="img/blog-04.jpg" alt=""></a>
-                  </div>
-                  <div class="s-12 m-12 l-8 margin-m-bottom">
-                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>
-                    <a class="text-more-info text-primary-hover" href="/">Read more</a>
-                  </div>
-                </div>
+      <!-- FOOTER -->
+        <!-- Contact Us -->
+        <!-- <div class="background-dark padding text-center footer-social">
+          <a class="margin-right-10" target="_blank" href="https://www.facebook.com"><i class="icon-facebook_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">FACEBOOK</span></a>
+          <a class="margin-right-10" target="_blank" href="https://www.twitter.com"><i class="icon-twitter_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">TWITTER</span></a>
+          <a class="margin-right-10" target="_blank" href="https://www.instagram.com"><i class="icon-instagram_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">INSTAGRAM</span></a>
+          <a target="_blank" href="https://www.linkedin.com"><i class="icon-linked_in_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">LINKEDIN</span></a>                                                                         
+        </div> -->
+              
+        <!-- Main Footer -->
+        <section class="section-small-padding text-center background-dark full-width">
+          <div class="line">
+            <div class="margin">
+              <!-- Collumn 1 -->              
+              <div class="s-12 m-12 l-3 margin-m-bottom-30">
+                <h3 class="text-size-16">Company Adress</h3>
+                <p class="text-size-14">
+                  Mexico City, Mexico
+                </p>                
+              </div>
+              <!-- Collumn 2 -->
+              <div class="s-12 m-12 l-3 margin-m-bottom-30">
+                <h3 class="text-size-16">E-mail</h3>
+                <p class="text-size-14">
+                   contacto@roosteravocados.com
+                </p>              
+              </div>
+              <!-- Collumn 3 -->
+              <div class="s-12 m-12 l-3 ">
+                <h3 class="text-size-16">Phone Numbers</h3>
+                <p class="text-size-14">
+                   +52 55 4085 0396<br>
+                </p>             
+              </div>
+              <div class="s-12 m-12 l-3 ">
+                <h3 class="text-size-16">Are you interested in our products?</h3>
+                <p class="text-size-14">
+                   Please, send us an email:<br>
+                   productos@roosteravocados.com
+                </p>             
               </div>
             </div>
-            
-            <!-- Collumn 2 -->
-            <div class="s-12 m-12 l-4 margin-m-bottom-30">
-              <h4 class="text-uppercase text-strong">Contact Us</h4>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-placepin text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><b>Adress:</b> Responsive Street 7, London, UK</p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-mail text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><a href="/" class="text-primary-hover"><b>E-mail:</b> contact@sampledomain.com</a></p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-smartphone text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><b>Phone:</b> 0700 000 987</p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-twitter text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11 margin-bottom-10">
-                  <p><a href="/" class="text-primary-hover"><b>Twitter</b></a></p>
-                </div>
-              </div>
-              <div class="line">
-                <div class="s-1 m-1 l-1 text-center">
-                  <i class="icon-facebook text-primary text-size-12"></i>
-                </div>
-                <div class="s-11 m-11 l-11">
-                  <p><a href="/" class="text-primary-hover"><b>Facebook</b></a></p>
-                </div>
-              </div>
-            </div>
-            
-            <!-- Collumn 3 -->
-            <div class="s-12 m-12 l-4">
-              <h4 class="text-uppercase text-strong">Functional Ajax Contact Form</h4>
-              <!-- If you want to make a field required, add the "required" class to the input. -->
-              <!-- The form e-mail address you can change on file resp-email.php on line 4. -->
-              <form name="contactForm" class="customform ajax-form text-white" method="post">
-                <div class="line">
-                  <div class="margin">
-                    <div class="s-12 m-12 l-6">
-                      <input name="email" class="required email border-radius" placeholder="Your e-mail" title="Your e-mail" type="text" />
-                      <p class="email-error form-error">Please enter your e-mail.</p>
-                    </div>
-                    <div class="s-12 m-12 l-6">
-                      <input name="name" class="name border-radius" placeholder="Your name" title="Your name" type="text" />
-                      <p class="name-error form-error">Please enter your name.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="s-12">
-                  <input name="subject" class="required subject border-radius" placeholder="Subject" title="Subject" type="text" />
-                  <p class="subject-error form-error">Please enter your subject.</p>
-                </div>
-                <div class="s-12">
-                  <textarea name="message" class="required message border-radius" placeholder="Your message" rows="3"></textarea>
-                  <p class="message-error form-error">Please enter your message.</p>
-                </div>
-                <!-- file upload input
-                <div class="s-12">
-                  <input type="file" name="file[]" />                    
-                </div>
-                 -->
-                <!-- full-name-field is hidden antirobot field -->
-                <input name="full-name-field" type="text border-radius" id="full-name-field" class="full-name-field" />
-                <div class="s-12"><a class="captcha-button text-white border-radius margin-bottom"><span class="not-a-robot-icon"><i class="icon-check text-green"></i></span> <span class="not-a-robot-text">I'm not a robot</span></a></div> 
-                <!-- The submit button text you can edit in the file validation.sj on the line 8. -->
-                <div class="s-12 button-parent"></div>
-                <div class="line">
-                  <p class="mail-success form-success">Your message has been sent successfully.</p>
-                  <p class="mail-fail form-error">Sorry, error occured this time sending your message.</p>
-                </div>  
-              </form>
-            </div>
+          </div>  
+        </section>
+
+
+        <!-- <div style="position: relative; left: 0; top: 0;">
+          <img src="img/bsp/rooster_001.png" style="position: relative; top: 0; left: 0;" />
+          <img src="img/bsp/rooster_001.png" style="position: absolute; top: 10px; left:450px;" />
+          <img src="img/bsp/rooster_001.png" style="position: absolute; top: 0px; left:720px;" />
+      </div> -->
+
+
+
+
+
+        <!-- <hr class="break margin-top-bottom-0" style="border-color: rgba(0, 0, 0, 0.80);"> -->
+        <!-- <img style="height:95px;width:auto;position:absolute;" src="img/bsp/rooster_001.png" alt=""> -->
+        <!-- Bottom Footer -->
+        <section class="padding background-dark full-width">
+          <div class="text-center">
+            <p class="text-size-12">Copyright 2020 - Orange Code</p>
           </div>
-        </div>
-      </section>
-      <hr class="break margin-top-bottom-0" style="border-color: rgba(0, 38, 51, 0.80);">
-      
-      <!-- Bottom Footer -->
-      <section class="padding background-dark">
-        <div class="line">
-          <div class="s-12 l-6">
-            <p class="text-size-12">Copyright 2019, Vision Design - graphic zoo</p>
-            <p class="text-size-12">All images have been purchased from Bigstock. Do not use the images in your website.</p>
-          </div>
-          <div class="s-12 l-6">
-            <a class="right text-size-12" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding<br> by Responsee Team</a>
-          </div>
-        </div>
-      </section>
+        </section>
+
     </footer>
     
     <script type="text/javascript" src="js/responsee.js"></script>
