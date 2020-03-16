@@ -116,7 +116,7 @@
                 <h3 class="text-size-16">Are you interested in our products?</h3>
                 <p class="text-size-14">
                    Please, send us an email:<br>
-                   productos@roosteravocados.com
+                   products@roosteravocados.com
                 </p>             
               </div>
             </div>

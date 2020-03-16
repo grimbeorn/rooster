@@ -47,7 +47,7 @@
       </div>
       <div class="item">
         <div class="s-12 center">
-          <img src="img/bsp/99340085.jpg" alt="">
+          <img src="img/bsp/bsp99340085.jpg" alt="">
           <div class="carousel-content">
             <div class="padding-2x">
               <div class="s-12 m-12 l-8">
@@ -80,13 +80,13 @@
   <div class="line">
     <div class="margin">
       <div class="s-12 m-12 l-4 margin-m-bottom">
-        <img class="margin-bottom" src="img/bsp/350476024.jpg" alt="">
+        <img class="margin-bottom" src="img/bsp/bsp306272680.jpg" alt="">
         <h2 class="text-thin">Beneficios</h2>
         <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
         <a class="text-more-info text-green-hover" href="/">Read more</a>                
       </div>
       <div class="s-12 m-12 l-4 margin-m-bottom">
-        <img class="margin-bottom" src="img/bsp/bsp306272680.jpg" alt="">
+        <img class="margin-bottom" src="img/bsp/bsp276877774.jpg" alt="">
         <h2 class="text-thin">Exportación</h2>
         <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
         <a class="text-more-info text-green-hover" href="/">Read more</a>                

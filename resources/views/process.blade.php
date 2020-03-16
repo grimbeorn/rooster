@@ -2,8 +2,8 @@
 
 @section('content')
 
-<!-- <header class="section background-dark background-transparent text-center" data-image-src="img/bsp/bsp257556904.jpg"> -->
-<header class="section background-dark background-transparent text-center" >
+<!-- <header class="section background-dark background-transparent text-center" data-image-src="img/bsp/bsp251509348.jpg"> -->
+<header class="section background-dark background-transparent text-center" data-image-src="img/bsp/bsp251509348.jpg">
     <h1 class="text-white margin-bottom-0 text-size-50 text-thin text-line-height-1">Process</h1>
 </header>
 

@@ -5,7 +5,7 @@
 <!-- Content -->
       <article>
         <header class="section background-dark background-transparent text-center" data-image-src="img/bsp/bsp257556904.jpg">
-            <h1 class="text-white margin-bottom-0 text-size-50 text-thin text-line-height-1">Contact US</h1>
+            <h1 class="text-white margin-bottom-0 text-size-50 text-thin text-line-height-1">Contact</h1>
         </header>
         <div class="section background-white"> 
           <div class="line">
@@ -30,7 +30,7 @@
                 <div class="margin-left-80 margin-bottom">
                   <h4 class="text-strong margin-bottom-0">E-mail</h4>
                   <p>contact@roosteravocados.com<br>
-                     order@roosteravocados.com
+                     products@roosteravocados.com
                   </p>              
                 </div>
                 <div class="float-left">
