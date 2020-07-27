@@ -36,7 +36,7 @@
    <br><br>
    <h2 class="headline text-thin text-s-size-30"><span class="text-pink"><b>Why </b></span> Rooster?</h2>
     <p class="text-size-20 text-s-size-16 text-thin">
-    It's easy: because the commitment we have with our clients and collaborators! <br>
+    It's easy: because <b>the commitment</b> we have with our clients and collaborators! <br>
     </p>
     <br><br> 
   </div>  

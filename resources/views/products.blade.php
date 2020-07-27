@@ -45,7 +45,6 @@
     120 - 150 gr<br>
     European Caliber 26<br>
     USA: 84<br>
->
    
     </p>
     <br><br>
