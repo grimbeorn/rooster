@@ -11,23 +11,34 @@
   <div class="line">
     <div class="margin">
       <div class="s-12 m-12 l-12 margin-m-bottom">
-        <h2 class="headline text-thin text-s-size-30"><span class="text-pink"></span> Avocado Sizing</h2>
-        <h2 class="text-thin">Avocado Sizing</h2>
-        <p>De gran tamaño (calibre 12, 14 y 16), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
+        <h2 class="headline text-thin text-s-size-30 text-left"><span class="text-pink"></span> Avocado</h2>
+        <p class="text-s-size-20">It's a mexican fruit, similar to a pear, rough green bark, smooth buttery pulp and large seed in the center..</p> 
         <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
       </div>
-      <div class="s-12 m-12 l-4 margin-m-bottom">
-        <img class="margin-bottom" src="img/bsp/bsp346954057.jpg" alt="">
-        <h2 class="text-thin">Primera Extra</h2>
-        <p>De gran tamaño (calibre 18), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
+      <div class="s-12 m-12 l-12 margin-m-bottom">
+        <h2 class="headline text-thin text-s-size-30 text-left"><span class="text-pink"></span> Avocado Sizing</h2>
+        <p class="text-s-size-20">De gran tamaño (calibre 12, 14 y 16), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
         <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
       </div>
-      <div class="s-12 m-12 l-4 margin-m-bottom">
-        <img class="margin-bottom" src="img/bsp/bsp110929769.jpg" alt="">
-        <h2 class="text-thin">Primera Mediano</h2>
-        <p>De gran tamaño (calibre 22), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
+      <div class="s-12 m-12 l-12 margin-m-bottom">
+        <h2 class="headline text-thin text-s-size-30 text-left"><span class="text-pink"></span> Ripening</h2>
+        <p class="text-s-size-20">De gran tamaño (calibre 12, 14 y 16), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
         <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
       </div>
+      <div class="s-12 m-12 l-12 margin-m-bottom">
+        <h2 class="headline text-thin text-s-size-30 text-left"><span class="text-pink"></span> Packaging</h2>
+        <p class="text-s-size-20">We can deliver by aur, sea or land.</p> 
+        <h4 class="headline text-thin text-s-size-24 text-left"><span class="text-pink"></span> By Air</h4>
+        <p class="text-s-size-20">Carton boxes : 56 boxes of 11.30<br>Carton boxes : 104 boxes of 06.00<br>Carton boxes : 154 boxes of 04.00<br>Plastic boxes : 72 boxes of 10.00<br></p>
+        <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
+      </div>
+      <div class="s-12 m-12 l-12 margin-m-bottom">
+        <h2 class="headline text-thin text-s-size-30 text-left"><span class="text-pink"></span> Other Features</h2>
+        <p class="text-s-size-20">De gran tamaño (calibre 12, 14 y 16), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
+        <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
+      </div>
+
+
     </div>
   </div>
 </section>
