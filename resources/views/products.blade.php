@@ -6,43 +6,6 @@
     <h1 class="text-white margin-bottom-0 text-size-50 text-thin text-line-height-1">Products</h1>
 </header>
 
-<!-- Section 2 -->
-<section class="section background-white text-left"> 
-  <div class="line">
-    <div class="margin">
-      <div class="s-12 m-12 l-12 margin-m-bottom">
-        <h2 class="headline text-thin text-s-size-25"> Avocado</h2>
-        <p class="text-s-size-20">It's a mexican fruit, similar to a pear, rough green bark, smooth buttery pulp and large seed in the center..</p> 
-        <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
-      </div>
-      <div class="s-12 m-12 l-12 margin-m-bottom">
-        <h2 class="headline text-thin text-s-size-30 text-left"> Avocado Sizing</h2>
-        <p class="text-s-size-20">De gran tamaño (calibre 12, 14 y 16), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
-        <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
-      </div>
-      <div class="s-12 m-12 l-12 margin-m-bottom">
-        <h2 class="headline text-thin text-s-size-30 text-left"> Ripening</h2>
-        <p class="text-s-size-20">De gran tamaño (calibre 12, 14 y 16), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
-        <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
-      </div>
-      <div class="s-12 m-12 l-12 margin-m-bottom">
-        <h2 class="headline text-thin text-s-size-30 text-left"> Packaging</h2>
-        <p class="text-s-size-20">We can deliver by aur, sea or land.</p> 
-        <h4 class="headline text-thin text-s-size-24 text-left"> By Air</h4>
-        <p class="text-s-size-20">Carton boxes : 56 boxes of 11.30<br>Carton boxes : 104 boxes of 06.00<br>Carton boxes : 154 boxes of 04.00<br>Plastic boxes : 72 boxes of 10.00<br></p>
-        <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
-      </div>
-      <div class="s-12 m-12 l-12 margin-m-bottom">
-        <h2 class="headline text-thin text-s-size-30 text-left"> Other Features</h2>
-        <p class="text-s-size-20">De gran tamaño (calibre 12, 14 y 16), gramaje superior a los 265 gramos. Gran riqueza de sabor y consistencia.</p> 
-        <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
-      </div>
-
-
-    </div>
-  </div>
-</section>
-
 <!-- Section 3 -->
 <section class="section background-white">
 <div class="full-width text-left">
