@@ -36,6 +36,15 @@
                 </div>
 
                 <div class="float-left">
+                  <i class="icon-paperplane_ico background-dark icon-circle-small text-size-20"></i>
+                </div>
+                <div class="margin-left-80 margin-bottom">
+                  <h4 class="text-strong margin-bottom-0">E-mail</h4>
+                  <p>hello@roosteravocados.com<br>
+                  </p>              
+                </div>
+
+                <div class="float-left">
                   <i class="icon-smartphone background-dark icon-circle-small text-size-20"></i>
                 </div>
                 <div class="margin-left-80 margin-bottom">
