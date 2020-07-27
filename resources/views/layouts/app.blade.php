@@ -28,7 +28,7 @@
         <div class="line">
           <div class="s-12 m-6 l-6">
             <div class="top-bar-contact">
-              <p class="text-size-12">Request a quote: +52 55 4085 0396 | <a class="text-orange-hover" href="mailto:contact@sampledomain.com">requestaquote@roosteravocados.com</a></p>
+              <p class="text-size-12">Request a quote: +52 55 9191 2790 | <a class="text-orange-hover" href="mailto:hello@roosteravocados.com">hello@roosteravocados.com</a></p>
             </div>
           </div>
           <div class="s-12 m-6 l-6">
@@ -81,21 +81,21 @@
               <div class="s-12 m-12 l-3 margin-m-bottom-30">
                 <h3 class="text-size-16">E-mail</h3>
                 <p class="text-size-14">
-                   contacto@roosteravocados.com
+                   hello@roosteravocados.com
                 </p>              
               </div>
               <!-- Collumn 3 -->
               <div class="s-12 m-12 l-3 ">
                 <h3 class="text-size-16">Phone Numbers</h3>
                 <p class="text-size-14">
-                   +52 55 4085 0396<br>
+                   +52 55 9191 2790<br>
                 </p>             
               </div>
               <div class="s-12 m-12 l-3 ">
                 <h3 class="text-size-16">Are you interested in our products?</h3>
                 <p class="text-size-14">
                    Please, send us an email:<br>
-                   products@roosteravocados.com
+                   hello@roosteravocados.com
                 </p>             
               </div>
             </div>
