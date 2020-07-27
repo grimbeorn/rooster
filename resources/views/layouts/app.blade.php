@@ -33,12 +33,6 @@
           </div>
           <div class="s-12 m-6 l-6">
             <div class="right">
-              <!-- <ul class="top-bar-social right">
-                <li><a href="/"><i class="icon-facebook_circle text-orange-hover"></i></a></li>
-                <li><a href="/"><i class="icon-twitter_circle text-orange-hover"></i></a> </li>
-                <li><a href="/"><i class="icon-google_plus_circle text-orange-hover"></i></a></li>
-                <li><a href="/"><i class="icon-instagram_circle text-orange-hover"></i></a></li>
-              </ul> -->
             </div>
           </div>
         </div>
@@ -56,6 +50,7 @@
               <li><a href="/rooster">Rooster</a></li>
               <li><a href="/process">Process</a></li>
               <li><a href="/products">Products</a></li>
+              <li><a href="/faqs">FAQs</a></li>
               <li><a href="/contact">Contact</a></li>
             </ul>
           </div>
@@ -70,23 +65,7 @@
     
     <!-- FOOTER -->
     <footer>
-      <!-- Social -->
-      <!-- <div class="background-pink padding text-center">
-        <a href="/"><i class="icon-facebook_circle icon2x text-white"></i></a> 
-        <a href="/"><i class="icon-twitter_circle icon2x text-white"></i></a>
-        <a href="/"><i class="icon-google_plus_circle icon2x text-white"></i></a>
-        <a href="/"><i class="icon-instagram_circle icon2x text-white"></i></a>
-      </div> -->
-      
-      <!-- FOOTER -->
-        <!-- Contact Us -->
-        <!-- <div class="background-dark padding text-center footer-social">
-          <a class="margin-right-10" target="_blank" href="https://www.facebook.com"><i class="icon-facebook_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">FACEBOOK</span></a>
-          <a class="margin-right-10" target="_blank" href="https://www.twitter.com"><i class="icon-twitter_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">TWITTER</span></a>
-          <a class="margin-right-10" target="_blank" href="https://www.instagram.com"><i class="icon-instagram_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">INSTAGRAM</span></a>
-          <a target="_blank" href="https://www.linkedin.com"><i class="icon-linked_in_circle text-size-30"></i> <span class="text-strong text-white hide-s hide-m">LINKEDIN</span></a>                                                                         
-        </div> -->
-              
+             
         <!-- Main Footer -->
         <section class="section-small-padding text-center background-dark full-width">
           <div class="line">
@@ -123,20 +102,6 @@
           </div>  
         </section>
 
-
-        <!-- <div style="position: relative; left: 0; top: 0;">
-          <img src="img/bsp/rooster_001.png" style="position: relative; top: 0; left: 0;" />
-          <img src="img/bsp/rooster_001.png" style="position: absolute; top: 10px; left:450px;" />
-          <img src="img/bsp/rooster_001.png" style="position: absolute; top: 0px; left:720px;" />
-      </div> -->
-
-
-
-
-
-        <!-- <hr class="break margin-top-bottom-0" style="border-color: rgba(0, 0, 0, 0.80);"> -->
-        <!-- <img style="height:95px;width:auto;position:absolute;" src="img/bsp/rooster_001.png" alt=""> -->
-        <!-- Bottom Footer -->
         <section class="padding background-dark full-width">
           <div class="text-center">
             <p class="text-size-12">Copyright 2020 - Orange Code</p>
@@ -149,5 +114,21 @@
     <script type="text/javascript" src="js/plugins.min.js"></script>
     <script type="text/javascript" src="owl-carousel/owl.carousel.js"></script>
     <script type="text/javascript" src="js/template-scripts.js"></script>     
+
+    <!-- Código de instalación Cliengo para hernandomtz@protonmail.com -->
+  <script type="text/javascript">(function () {
+      var ldk = document.createElement('script');
+      ldk.type = 'text/javascript';
+      ldk.async = true;
+      ldk.src = 'https://s.cliengo.com/weboptimizer/5f1e43025ec0f4002a367d72/5f1e43035ec0f4002a367d75.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ldk, s);
+    })();
+  </script>
+
+
+
+
+
    </body>
 </html>
