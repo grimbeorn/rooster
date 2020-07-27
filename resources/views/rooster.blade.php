@@ -43,44 +43,5 @@
 </div>  
 </section>
 <hr class="break margin-top-bottom-0">
-
-<!-- Section 4 -->
-<!-- <section class="section background-white"> 
-<div class="line">
-<h3 class="text-thin headline text-center text-s-size-30 margin-bottom-30">Avocado <span class="text-pink"><b>Vitamins</b> </span>:</h3>
-  <div class="margin">
-    <div class="s-12 m-12 l-6 text-right">        
-      <p class="text-size-16 margin-bottom-20">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-      <p class="margin-m-bottom-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
-    </div>                                                                                                                                                                                          
-    <div class="s-12 m-12 l-6">        
-      <div class="skillbar" data-percent="63.3%">
-      	<div class="skillbar-title text-dark"><i class="icon-paperplane_ico"> </i> <span class="text-size-16">Ascorbic Acid <b>63.3 %</b></span></div>
-      	<div class="skillbar-bar background-green"></div>
-      </div>
-      <div class="skillbar" data-percent="11.0%">
-      	<div class="skillbar-title text-dark"><i class="icon-heart"> </i> <span class="text-size-16">Niacin <b>11.0 %</b></span></div>
-      	<div class="skillbar-bar background-green"></div>
-      </div>
-      <div class="skillbar" data-percent="13.1%">
-      	<div class="skillbar-title text-dark"><i class="icon-cloud"> </i> <span class="text-size-16">Alpha-tocopherol <b>13.1 %</b></span></div>
-      	<div class="skillbar-bar background-green"></div>
-      </div>
-      <div class="skillbar" data-percent="8.8%">
-      	<div class="skillbar-title text-dark"><i class="icon-globe_black"> </i> <span class="text-size-16">Pantotheic acid <b>8.8 %</b></span></div>
-      	<div class="skillbar-bar background-green"></div>
-      </div>
-      <div class="skillbar" data-percent="1.6%">
-        <div class="skillbar-title text-dark"><i class="icon-globe_black"> </i> <span class="text-size-16">Pyridoxine <b>1.6 %</b></span></div>
-        <div class="skillbar-bar background-green"></div>
-      </div>
-      <div class="skillbar" data-percent="2.2%">
-        <div class="skillbar-title text-dark"><i class="icon-globe_black"> </i> <span class="text-size-16">Others <b>2.2 %</b></span></div>
-        <div class="skillbar-bar background-green"></div>
-      </div>
-    </div>
-  </div>     
-</div>
-</section> -->
   
 @endsection

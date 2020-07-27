@@ -76,7 +76,7 @@
 </section>
 
 <!-- Section 1 -->
-<section class="section background-white"> 
+<!-- <section class="section background-white"> 
   <div class="line">
     <div class="margin">
       <div class="s-12 m-12 l-4 margin-m-bottom">
@@ -99,7 +99,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
         
 @endsection

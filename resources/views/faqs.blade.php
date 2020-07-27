@@ -11,14 +11,14 @@
 <div class="full-width text-left">
  <!--  <img class="center margin-bottom-30" style="margin-top: -210px; position:relative;" src="img/bsp/pngBsp23343391_005.png" alt=""> -->
   <div class="line">
-    <h2 class="headline text-thin text-s-size-30"><span class="text-pink"><b>What</b></span> certificates does mexican avocados has?</h2>
+    <h2 class="headline text-thin text-s-size-30"><span class="text-pink"><b>What</b></span> certificates does mexican avocados have?</h2>
     <p class="text-size-20 text-s-size-16 text-thin">
       We count with the Global G.A.P., Primus GFS, USDA Organic, SMETA.
     </p>
     <br><br>
     <h2 class="headline text-thin text-s-size-30"><span class="text-pink"><b>How </b></span> many tons can you supply?</h2>
     <p class="text-size-20 text-s-size-16 text-thin">
-      Beyond the intrinsic quality of Mexican avocado, at <b>Rooster</b> we are concerned with making a selection of the <b>best products</b>, either for shipping avocado in bulk or for our processed products.<br>
+      We can supply in various ways, please check this link
     </p>
     <br><br>
     <h2 class="headline text-thin text-s-size-30"><span class="text-pink"><b>When </b></span> is avocado season?</h2>
