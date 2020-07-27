@@ -15,7 +15,6 @@
               <div class="s-12 m-12 l-6">
                 <h2 class="text-uppercase text-strong">Company Information</h2>
                 <hr class="break break-small background-dark">
-
                 <div class="float-left">
                   <i class="icon-placepin background-dark icon-circle-small text-size-20"></i>
                 </div>
@@ -25,25 +24,23 @@
                      Mexico<br>
                   </p>               
                 </div>
-
                 <div class="float-left">
                   <i class="icon-paperplane_ico background-dark icon-circle-small text-size-20"></i>
                 </div>
                 <div class="margin-left-80 margin-bottom">
                   <h4 class="text-strong margin-bottom-0">E-mail</h4>
-                  <p>hello@roosteravocados.com<br>
+                  <p>contact@roosteravocados.com<br>
+                     products@roosteravocados.com
                   </p>              
                 </div>
-
                 <div class="float-left">
                   <i class="icon-smartphone background-dark icon-circle-small text-size-20"></i>
                 </div>
-                <div class="margin-left margin-bottom">
+                <div class="margin-left-80">
                   <h4 class="text-strong margin-bottom-0">Phone Numbers</h4>
-                  <p>+52 1 55 9191 2790<br>
+                  <p>+52 1 55 4085 0396<br>
                   </p>             
                 </div>
-
               </div>
               
               <!-- Contact Form -->
