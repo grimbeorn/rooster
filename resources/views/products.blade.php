@@ -10,8 +10,8 @@
 <section class="section background-white text-center"> 
   <div class="line">
     <div class="margin">
-      <div class="s-12 m-12 l-12 margin-m-bottom">
-        <h2 class="headline text-thin text-s-size-30 text-left"><span class="text-pink"></span> Avocado</h2>
+      <div class="s-12 m-12 l-12 margin-m-bottom text-left">
+        <h2 class="headline text-thin text-s-size-25"><span class="text-pink"></span> Avocado</h2>
         <p class="text-s-size-20">It's a mexican fruit, similar to a pear, rough green bark, smooth buttery pulp and large seed in the center..</p> 
         <!-- <a class="text-more-info text-green-hover" href="/">Read more</a>                 -->
       </div>
