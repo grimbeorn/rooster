@@ -38,7 +38,7 @@
                 <div class="float-left">
                   <i class="icon-smartphone background-dark icon-circle-small text-size-20"></i>
                 </div>
-                <div class="margin-left-80 margin-bottom">
+                <div class="margin-left margin-bottom">
                   <h4 class="text-strong margin-bottom-0">Phone Numbers</h4>
                   <p>+52 1 55 9191 2790<br>
                   </p>             
