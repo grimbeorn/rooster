@@ -29,8 +29,7 @@
                 </div>
                 <div class="margin-left-80 margin-bottom">
                   <h4 class="text-strong margin-bottom-0">E-mail</h4>
-                  <p>contact@roosteravocados.com<br>
-                     products@roosteravocados.com
+                  <p>hello@roosteravocados.com<br>
                   </p>              
                 </div>
                 <div class="float-left">
@@ -38,7 +37,7 @@
                 </div>
                 <div class="margin-left-80">
                   <h4 class="text-strong margin-bottom-0">Phone Numbers</h4>
-                  <p>+52 1 55 4085 0396<br>
+                  <p>+52 1 55 9191 2790<br>
                   </p>             
                 </div>
               </div>
