@@ -41,7 +41,6 @@
         <div class="line">
           <div class="s-6 l-2">
             <a href="/" class="logo">
-              <!-- <img src="img/logo.png" alt=""> -->
               <img style="height:95px;width:auto;" src="img/bsp/bspMascara_006.png" alt="">
             </a>
           </div>
@@ -65,7 +64,6 @@
     
     <!-- FOOTER -->
     <footer>
-             
         <!-- Main Footer -->
         <section class="section-small-padding text-center background-dark full-width">
           <div class="line">
@@ -125,10 +123,6 @@
       s.parentNode.insertBefore(ldk, s);
     })();
   </script>
-
-
-
-
 
    </body>
 </html>

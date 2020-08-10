@@ -9,7 +9,7 @@
 <!-- Section 3 -->
 <section class="section background-white">
 <div class="full-width text-left">
- <!--  <img class="center margin-bottom-30" style="margin-top: -210px; position:relative;" src="img/bsp/pngBsp23343391_005.png" alt=""> -->
+ <img class="center margin-bottom-30" style="margin-top: -210px; position:relative;" src="img/bsp/pngBsp23343391_005.png" alt="">
   <div class="line">
     <h2 class="headline text-thin text-s-size-30"><span class="text-green"><b>What</b></span> certificates does mexican avocados have?</h2>
     <p class="text-size-20 text-s-size-16 text-thin">

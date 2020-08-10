@@ -75,31 +75,6 @@
   </div>
 </section>
 
-<!-- Section 1 -->
-<!-- <section class="section background-white"> 
-  <div class="line">
-    <div class="margin">
-      <div class="s-12 m-12 l-4 margin-m-bottom">
-        <img class="margin-bottom" src="img/bsp/bsp306272680.jpg" alt="">
-        <h2 class="text-thin">Beneficios</h2>
-        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
-        <a class="text-more-info text-green-hover" href="/">Read more</a>                
-      </div>
-      <div class="s-12 m-12 l-4 margin-m-bottom">
-        <img class="margin-bottom" src="img/bsp/bsp276877774.jpg" alt="">
-        <h2 class="text-thin">Exportación</h2>
-        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
-        <a class="text-more-info text-green-hover" href="/">Read more</a>                
-      </div>
-      <div class="s-12 m-12 l-4 margin-m-bottom">
-        <img class="margin-bottom" src="img/bsp/bsp259552864.jpg" alt="">
-        <h2 class="text-thin">Michoacán</h2>
-        <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p> 
-        <a class="text-more-info text-green-hover" href="/">Read more</a>                
-      </div>
-    </div>
-  </div>
-</section> -->
 
         
 @endsection
