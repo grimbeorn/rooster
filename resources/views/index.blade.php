@@ -8,7 +8,7 @@
     <div class="carousel-fade-transition owl-carousel carousel-main carousel-nav-white carousel-wide-arrows">
       <div class="item">
         <div class="s-12 center">
-          <img src="img/bsp/bsp236670472.wdp" alt="">
+          <img src="img/bsp/bsp236670472.jpg" alt="">
           <div class="carousel-content">
             <div class="padding-2x">
               <div class="s-12 m-12 l-8">
@@ -21,7 +21,7 @@
       </div>
       <div class="item">
         <div class="s-12 center">
-          <img src="img/bsp/bsp333757936_copy.wdp" alt="">
+          <img src="img/bsp/bsp333757936_copy.jpg" alt="">
           <div class="carousel-content">
             <div class="padding-2x">
               <div class="s-12 m-12 l-8">
@@ -34,7 +34,7 @@
       </div>
       <div class="item">
         <div class="s-12 center">
-          <img src="img/bsp/bsp347629153_copy.wdp" alt="">
+          <img src="img/bsp/bsp347629153_copy.jpg" alt="">
           <div class="carousel-content">
             <div class="padding-2x">
               <div class="s-12 m-12 l-8">
@@ -47,7 +47,7 @@
       </div>
       <div class="item">
         <div class="s-12 center">
-          <img src="img/bsp/bsp99340085.wdp" alt="">
+          <img src="img/bsp/bsp99340085.jpg" alt="">
           <div class="carousel-content">
             <div class="padding-2x">
               <div class="s-12 m-12 l-8">
@@ -60,7 +60,7 @@
       </div>
       <div class="item">
         <div class="s-12 center">
-          <img src="img/bsp/bsp323365771.wdp" alt="">
+          <img src="img/bsp/bsp323365771.jpg" alt="">
           <div class="carousel-content">
             <div class="padding-2x">
               <div class="s-12 m-12 l-8">
