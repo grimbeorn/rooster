@@ -14,8 +14,8 @@
               <div class="s-12 m-12 l-8">
                 <!-- <p class="text-white text-s-size-20 text-m-size-40 text-size-60 margin-bottom-40 text-thin text-line-height-1"><b>Mexican Avocado</b></p>
                 <p class="text-white text-size-16 margin-bottom-40">Mexican gastronomy is considered a cultural heritage of humanity <br> being the avocado an essential part of this legacy.</p>   -->
-                <p class="text-white text-s-size-20 text-m-size-40 text-size-60 margin-bottom-40 text-thin text-line-height-1"><b>Mexican Avocado</b></p>
-                <p class="text-white text-size-16 margin-bottom-40">Mexican gastronomy is considered a cultural heritage of humanity <br> being the avocado an essential part of this legacy.</p>  
+                <p class="text-white text-s-size-20 text-m-size-40 text-size-60 margin-bottom-40 text-thin text-line-height-1"><b>Aguacate Mexicano</b></p>
+                <p class="text-white text-size-16 margin-bottom-40">La gastronomía mexicana es considerada patrimonio cultural de la humanidad <br> siendo el aguacate una parte esencial de este legado. </p>  
               </div>                  
             </div>
           </div>
